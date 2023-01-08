@@ -48,4 +48,3 @@ The user can:
 
 - ### Stitches (CSS in JS library).
 
-- ### React-Helmet-Async.
