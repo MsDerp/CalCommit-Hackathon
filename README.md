@@ -1,9 +1,5 @@
 # Health App
 ---
-![](https://img.shields.io/github/repo-size/isabdch/health-app?color=%236FC3AB&style=for-the-badge)
-![](https://img.shields.io/github/issues/isabdch/health-app?color=%236FC3AB&style=for-the-badge)
-![](https://img.shields.io/github/stars/isabdch/health-app?color=%236FC3AB&style=for-the-badge)
-![](https://img.shields.io/github/license/isabdch/health-app?color=%236FC3AB&style=for-the-badge)
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
 
