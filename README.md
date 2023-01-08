@@ -28,7 +28,7 @@
 ### The user can:
 
 > ### Calculate BMI;
-> ### Calculate ideal amount of water per day;
+> ### Calculate daily water intake;
 > ### Calculate body fat percentage;
 > ### See recipes suggestions;
 > ### Search for recipes and get their nutritional information.
@@ -43,6 +43,4 @@
 > ### Java;
 > ### React;
 > ### Context-API;
-> ### React-Router;
-> ### Stitches (CSS in JS library).
 
