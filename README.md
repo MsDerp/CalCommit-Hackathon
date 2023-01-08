@@ -1,4 +1,4 @@
-# ⚕️ The Healthy App ⚕️
+# ![#1589F0] ⚕️ The Healthy App ⚕️ `#1589F0` 
 ---
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
