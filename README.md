@@ -23,16 +23,7 @@
 <br />
 
 
-## 📖 Table of Contents
-
-- [Project Description](#project-description)
-- [Technologies](#technologies)
-- [Features](#features)
-- [Status](#status)
-
-
-
-## ➤ [FEATURES]
+## ➤ FEATURES
 
 The user can:
 
