@@ -21,6 +21,8 @@ The application could also include features such as progress tracking, a social 
 
 - ### TypeScript;
 
+- ### Java
+
 - ### React;
 
 - ### Context-API;
