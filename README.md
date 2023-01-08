@@ -32,7 +32,7 @@
 
 
 
-## ➤ FEATURES
+## ➤ FEATURES (#features) 
 
 The user can:
 
