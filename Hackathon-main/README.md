@@ -11,7 +11,7 @@ Users would be able to input information about themselves, including their age, 
 
 <br />
 
-## - FEATURES
+## FEATURES
 
 The user can:
 
@@ -25,7 +25,7 @@ The user can:
 
 <br />
 
-## - USED
+## USED
 
 - ### TypeScript;
 
