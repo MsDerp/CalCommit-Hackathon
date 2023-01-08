@@ -3,7 +3,7 @@
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
 
-![](Hackathon-main/Screen Recording 2023-01
+![](Hackathon-main/gif-readme.gif)
 
 <br />
 
