@@ -39,8 +39,9 @@
 
 ## ➤ USED
 
-> ### TypeScript;
-> ### Java;
-> ### React;
-> ### Context-API;
+> ### TypeScript
+> ### Java
+> ### HTML
+> ### React
+> ### Context-API
 
