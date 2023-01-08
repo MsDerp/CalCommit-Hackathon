@@ -11,7 +11,7 @@
 
 ## ✏️ Project Description
 
-The Healthy App is a web application that utilizes the Spoonacular API to provide users with various health-related features. These features include the ability to calculate their BMI, determine the ideal amount of water they should consume per day, and estimate their body fat percentage. The app also allows users to browse and discover thousands of healthy recipes. The app is built using Typescript, React, and Stitches (a CSS-in-JS library).
+> The Healthy App is a web application that utilizes the Spoonacular API to provide users with various health-related features. These features include the ability to calculate their BMI, determine the ideal amount of water they should consume per day, and estimate their body fat percentage. The app also allows users to browse and discover thousands of healthy recipes. The app is built using Typescript, React, and Stitches (a CSS-in-JS library).
 
 
 The goal of this project is to build a web application that provides personalized nutrition and exercise recommendations to users based on their health goals, dietary preferences, and physical activity level. With the pandemic coming to an end, many of us are going back into the world. This web application offers an enjoyable way for users to join the rest of their communities feeling the best/healthest they have ever felt.
