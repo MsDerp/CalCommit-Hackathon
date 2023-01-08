@@ -25,7 +25,7 @@ Users would be able to input information about themselves, including their age, 
 
 ## ➤ FEATURES
 
-The user can:
+### The user can:
 
 > ### Calculate BMI;
 > ### Calculate ideal amount of water per day;
@@ -39,15 +39,10 @@ The user can:
 
 ## ➤ USED
 
-- ### TypeScript;
-
-- ### Java;
-
-- ### React;
-
-- ### Context-API;
-
-- ### React-Router;
-
-- ### Stitches (CSS in JS library).
+> ### TypeScript;
+> ### Java;
+> ### React;
+> ### Context-API;
+> ### React-Router;
+> ### Stitches (CSS in JS library).
 
