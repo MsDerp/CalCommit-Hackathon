@@ -3,7 +3,7 @@
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
 
-![](https://github.com/MsDerp/CalCommit-Hackathon/blob/4a89014a3e3bd44fef19d3ab0c651379e281980f/Hackathon-main/Screen%20Recording%202023-01-08%20at%209.05.47%20AM%20(3).gif)
+![](https://github.com/MsDerp/CalCommit-Hackathon/blob/ca3ab3e9a9e8a2d235cc6ebdc146d38b25721e0f/Hackathon-main/ezgif.com-gif-maker.gif)
 
 <br />
 
