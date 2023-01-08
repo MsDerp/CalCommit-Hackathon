@@ -27,7 +27,7 @@
 
 ### The user can:
 
-> ### Calculate BMI;
+> Calculate BMI;
 > ### Calculate ideal amount of water per day;
 > ### Calculate body fat percentage;
 > ### See recipes suggestions;
