@@ -3,7 +3,7 @@
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
 
-![](Hackathon-main/gif-readme.gif)
+![](Hackathon-main/gif-readme.gi)
 
 <br />
 
