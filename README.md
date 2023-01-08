@@ -1,4 +1,4 @@
-# The Healthy App `#0969DA`
+# The Healthy App
 ---
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
