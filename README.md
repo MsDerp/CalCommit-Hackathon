@@ -3,7 +3,7 @@
 
 ## [SITE HERE](https://isabdch.github.io/health-app/#/)
 
-![](Hackathon-main/Screen Recording 2023-01-08 at 9.05.47 AM.gif)
+![](Hackathon-main/Screen Recording 2023-01-08 at 9.05.47 AM.mov)
 
 <br />
 
